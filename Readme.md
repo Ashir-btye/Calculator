@@ -34,11 +34,9 @@ Development Roadmap
 
 Phase 1: Implement core functionalities (basic operations).
 
-Phase 2: Add advanced mathematical functions.
+Phase 2: Enhance the user interface for better accessibility.
 
-Phase 3: Enhance the user interface for better accessibility.
-
-Phase 4: Incorporate user feedback and refine features.
+Phase 3: Incorporate user feedback and refine features.
 
 Technologies Used
 
