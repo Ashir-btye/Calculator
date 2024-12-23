@@ -8,13 +8,7 @@ Features
 
 Basic Operations: Addition, subtraction, multiplication, and division.
 
-Advanced Functions: Square root, exponentiation, and trigonometric functions.
-
 User Interface: Intuitive and responsive design suitable for all users.
-
-History Log: Tracks past calculations for reference.
-
-Error Handling: Provides user-friendly messages for invalid inputs.
 
 Target Audience
 
